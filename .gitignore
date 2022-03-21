@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/vendingmachine-service/build/
+/vendingmachine-service/build/classes/java/main/

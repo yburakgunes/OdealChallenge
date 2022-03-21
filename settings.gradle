@@ -1,0 +1,3 @@
+rootProject.name = 'OdealChallenge'
+include 'vendingmachine-service'
+
